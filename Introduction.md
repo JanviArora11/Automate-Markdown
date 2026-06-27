@@ -11,6 +11,9 @@ This project is designed to demonstrate a simple structure and serve as
 a starting point for development. It can be expanded with additional
 functionality, documentation, and examples as needed.
 
+## This  feature was added to check auto sync
+This section newly added to verify auto sync
+
 ## Features
 
 -   Easy to understand
